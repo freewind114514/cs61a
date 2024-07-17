@@ -1,0 +1,7 @@
+'Card.__init__-correct', (0, 66)
+'Player.draw-correct', (512, 66)
+'Problem 1-correct', (1024, 66)
+'AICard.effect-correct', (1536, 66)
+'TutorCard.effect-correct', (2048, 66)
+'TACard.effect-correct', (2560, 66)
+'Problem 2-correct', (3072, 66)
